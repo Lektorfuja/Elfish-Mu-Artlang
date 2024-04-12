@@ -1,0 +1,2 @@
+Elfish mu is an artificial authoring language (artlang) for 
+communicating in the forest with invisible elves. 
