@@ -1,2 +1,17 @@
 Elfish mu is an artificial authoring language (artlang) for 
 communicating in the forest with invisible elves. 
+#######
+First Edition (10 words)
+(the words in brackets are in elfish mu)
+
+1. Hello! (arimaku)
+2. I (eg)
+3. you (tuta)
+4. My name is Elf (Eg name Elf)
+5. Name (name)
+6. Elf (Elf)
+7. How? (Aka?)
+8. What is your name? (Aka name du?)
+9. You (du)
+10. Goodbye! (blora)
+###########
